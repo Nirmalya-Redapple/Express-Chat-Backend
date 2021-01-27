@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://root:nirmalya1997@cluster0.72ybl.mongodb.net/Cluster0?retryWrites=true&w=majority",
+    "jwtSecret":"yvfgsfdhbge4irbbrf7g"
+}
